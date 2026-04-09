@@ -207,7 +207,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-For questions or suggestions, please open an issue or contact me at [piyush.35raj@gmail.com](mailto:piyush.35raj@gmail.com).
+For questions or suggestions, please open an issue or contact me at [aryan.souvik111@gmail.com](mailto:aryan.souvik111@gmail.com).
 
 ---
 
