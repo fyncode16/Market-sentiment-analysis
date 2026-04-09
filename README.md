@@ -210,5 +210,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or suggestions, please open an issue or contact me at [aryan.souvik111@gmail.com](mailto:aryan.souvik111@gmail.com).
 
 ---
-
-** If you found this project helpful, please give it a star!**
